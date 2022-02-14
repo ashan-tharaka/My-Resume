@@ -378,6 +378,12 @@
         margin-bottom: 0;
     }
     
+    #Download {
+        margin-top: 20px;
+        width: 50%;
+        background-color: rgb(197, 12, 114);
+    }
+    
     .skills .progress {
         height: 60px;
         display: block;
