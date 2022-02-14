@@ -17,6 +17,10 @@
         color: red;
     }
     
+    p {
+        font-size: 15px;
+    }
+    
     a {
         color: #db1b0d;
         text-decoration: none;
